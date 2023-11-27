@@ -9,10 +9,10 @@ Welcome to the Robotech GitHub repository! This repository houses the innovative
 
 ### Repository Contents:
 
-1. **Robotech Business Plan (Robotech_Business_Plan.pptx):**
+1. **Robotech Business Plan (Robotechs_Business_Plan.pptx):**
    - This PowerPoint presentation provides a concise overview of our ideas for the Schneider Electric European Hackathon. It includes a brief summary of our proposed solutions, a demonstration video showcasing the implementation, and a short summary video for a quick glance at our innovative concepts. Also the details of the team member who worked on this project.
 
-2. **Robotech Technical Implementation (Robotech_Technical_Implementation.pdf):**
+2. **Robotech Technical Implementation (Robotechs_Technical_Implementation.pdf):**
    - Dive into the technical details of our solutions with this comprehensive PDF document. It includes detailed explanations, pseudo codes, and a flow diagram illustrating the process flow of our proposed ideas. Whether you're a technical expert or someone interested in the nitty-gritty details, this document has you covered.
 
 3. **SchneiderAIVoiceAssistant.py:**
